@@ -1,0 +1,6 @@
+D:\kalyani\project\ConsoleOnlineApplication\obj\Debug\ConsoleOnlineApplication.csprojAssemblyReference.cache
+D:\kalyani\project\ConsoleOnlineApplication\bin\Debug\ConsoleOnlineApplication.exe.config
+D:\kalyani\project\ConsoleOnlineApplication\bin\Debug\ConsoleOnlineApplication.exe
+D:\kalyani\project\ConsoleOnlineApplication\bin\Debug\ConsoleOnlineApplication.pdb
+D:\kalyani\project\ConsoleOnlineApplication\obj\Debug\ConsoleOnlineApplication.exe
+D:\kalyani\project\ConsoleOnlineApplication\obj\Debug\ConsoleOnlineApplication.pdb
