@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnFactory\obj\Debug\HandsOnFactory.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnFactory\bin\Debug\HandsOnFactory.exe.config
+D:\kalyani\C#\HandsOn\HandsOnFactory\bin\Debug\HandsOnFactory.exe
+D:\kalyani\C#\HandsOn\HandsOnFactory\bin\Debug\HandsOnFactory.pdb
+D:\kalyani\C#\HandsOn\HandsOnFactory\obj\Debug\HandsOnFactory.exe
+D:\kalyani\C#\HandsOn\HandsOnFactory\obj\Debug\HandsOnFactory.pdb

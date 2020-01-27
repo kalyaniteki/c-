@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnDeligate\bin\Debug\HandsOnDeligate.exe.config
+D:\kalyani\C#\HandsOn\HandsOnDeligate\bin\Debug\HandsOnDeligate.exe
+D:\kalyani\C#\HandsOn\HandsOnDeligate\bin\Debug\HandsOnDeligate.pdb
+D:\kalyani\C#\HandsOn\HandsOnDeligate\obj\Debug\HandsOnDeligate.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnDeligate\obj\Debug\HandsOnDeligate.exe
+D:\kalyani\C#\HandsOn\HandsOnDeligate\obj\Debug\HandsOnDeligate.pdb

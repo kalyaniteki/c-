@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnCURD\bin\Debug\HandsOnCURD.exe.config
+D:\kalyani\C#\HandsOn\HandsOnCURD\bin\Debug\HandsOnCURD.exe
+D:\kalyani\C#\HandsOn\HandsOnCURD\bin\Debug\HandsOnCURD.pdb
+D:\kalyani\C#\HandsOn\HandsOnCURD\obj\Debug\HandsOnCURD.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnCURD\obj\Debug\HandsOnCURD.exe
+D:\kalyani\C#\HandsOn\HandsOnCURD\obj\Debug\HandsOnCURD.pdb

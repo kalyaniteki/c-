@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnCricket\bin\Debug\HandsOnCricket.exe.config
+D:\kalyani\C#\HandsOn\HandsOnCricket\bin\Debug\HandsOnCricket.exe
+D:\kalyani\C#\HandsOn\HandsOnCricket\bin\Debug\HandsOnCricket.pdb
+D:\kalyani\C#\HandsOn\HandsOnCricket\obj\Debug\HandsOnCricket.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnCricket\obj\Debug\HandsOnCricket.exe
+D:\kalyani\C#\HandsOn\HandsOnCricket\obj\Debug\HandsOnCricket.pdb
