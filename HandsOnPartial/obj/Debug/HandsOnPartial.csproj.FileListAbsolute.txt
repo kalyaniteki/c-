@@ -1,0 +1,5 @@
+D:\kalyani\C#\HandsOn\HandsOnPartial\bin\Debug\HandsOnPartial.exe.config
+D:\kalyani\C#\HandsOn\HandsOnPartial\bin\Debug\HandsOnPartial.exe
+D:\kalyani\C#\HandsOn\HandsOnPartial\bin\Debug\HandsOnPartial.pdb
+D:\kalyani\C#\HandsOn\HandsOnPartial\obj\Debug\HandsOnPartial.exe
+D:\kalyani\C#\HandsOn\HandsOnPartial\obj\Debug\HandsOnPartial.pdb

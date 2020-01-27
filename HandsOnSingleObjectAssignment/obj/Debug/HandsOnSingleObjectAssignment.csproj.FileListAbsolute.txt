@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnSingleObjectAssignment\bin\Debug\HandsOnSingleObjectAssignment.exe.config
+D:\kalyani\C#\HandsOn\HandsOnSingleObjectAssignment\bin\Debug\HandsOnSingleObjectAssignment.exe
+D:\kalyani\C#\HandsOn\HandsOnSingleObjectAssignment\bin\Debug\HandsOnSingleObjectAssignment.pdb
+D:\kalyani\C#\HandsOn\HandsOnSingleObjectAssignment\obj\Debug\HandsOnSingleObjectAssignment.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnSingleObjectAssignment\obj\Debug\HandsOnSingleObjectAssignment.exe
+D:\kalyani\C#\HandsOn\HandsOnSingleObjectAssignment\obj\Debug\HandsOnSingleObjectAssignment.pdb

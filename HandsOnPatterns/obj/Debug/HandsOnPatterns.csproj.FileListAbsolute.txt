@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnPatterns\bin\Debug\HandsOnPatterns.exe.config
+D:\kalyani\C#\HandsOn\HandsOnPatterns\bin\Debug\HandsOnPatterns.exe
+D:\kalyani\C#\HandsOn\HandsOnPatterns\bin\Debug\HandsOnPatterns.pdb
+D:\kalyani\C#\HandsOn\HandsOnPatterns\obj\Debug\HandsOnPatterns.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnPatterns\obj\Debug\HandsOnPatterns.exe
+D:\kalyani\C#\HandsOn\HandsOnPatterns\obj\Debug\HandsOnPatterns.pdb

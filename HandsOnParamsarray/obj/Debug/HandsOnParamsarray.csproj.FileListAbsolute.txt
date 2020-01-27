@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnParamsarray\bin\Debug\HandsOnParamsarray.exe.config
+D:\kalyani\C#\HandsOn\HandsOnParamsarray\bin\Debug\HandsOnParamsarray.exe
+D:\kalyani\C#\HandsOn\HandsOnParamsarray\bin\Debug\HandsOnParamsarray.pdb
+D:\kalyani\C#\HandsOn\HandsOnParamsarray\obj\Debug\HandsOnParamsarray.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnParamsarray\obj\Debug\HandsOnParamsarray.exe
+D:\kalyani\C#\HandsOn\HandsOnParamsarray\obj\Debug\HandsOnParamsarray.pdb

@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnString\bin\Debug\HandsOnString.exe.config
+D:\kalyani\C#\HandsOn\HandsOnString\bin\Debug\HandsOnString.exe
+D:\kalyani\C#\HandsOn\HandsOnString\bin\Debug\HandsOnString.pdb
+D:\kalyani\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.exe
+D:\kalyani\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.pdb
