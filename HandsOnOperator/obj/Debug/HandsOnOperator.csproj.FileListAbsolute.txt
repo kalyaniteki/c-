@@ -1,0 +1,5 @@
+D:\kalyani\C#\HandsOn\HandsOnOperator\bin\Debug\HandsOnOperator.exe.config
+D:\kalyani\C#\HandsOn\HandsOnOperator\bin\Debug\HandsOnOperator.exe
+D:\kalyani\C#\HandsOn\HandsOnOperator\bin\Debug\HandsOnOperator.pdb
+D:\kalyani\C#\HandsOn\HandsOnOperator\obj\Debug\HandsOnOperator.exe
+D:\kalyani\C#\HandsOn\HandsOnOperator\obj\Debug\HandsOnOperator.pdb

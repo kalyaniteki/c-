@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnIterativeStmts\bin\Debug\HandsOnIterativeStmts.exe.config
+D:\kalyani\C#\HandsOn\HandsOnIterativeStmts\bin\Debug\HandsOnIterativeStmts.exe
+D:\kalyani\C#\HandsOn\HandsOnIterativeStmts\bin\Debug\HandsOnIterativeStmts.pdb
+D:\kalyani\C#\HandsOn\HandsOnIterativeStmts\obj\Debug\HandsOnIterativeStmts.exe
+D:\kalyani\C#\HandsOn\HandsOnIterativeStmts\obj\Debug\HandsOnIterativeStmts.pdb
+D:\kalyani\C#\HandsOn\HandsOnIterativeStmts\obj\Debug\HandsOnIterativeStmts.csprojAssemblyReference.cache

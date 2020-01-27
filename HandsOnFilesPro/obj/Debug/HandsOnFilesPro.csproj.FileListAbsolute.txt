@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnFilesPro\bin\Debug\HandsOnFilesPro.exe.config
+D:\kalyani\C#\HandsOn\HandsOnFilesPro\bin\Debug\HandsOnFilesPro.exe
+D:\kalyani\C#\HandsOn\HandsOnFilesPro\bin\Debug\HandsOnFilesPro.pdb
+D:\kalyani\C#\HandsOn\HandsOnFilesPro\obj\Debug\HandsOnFilesPro.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnFilesPro\obj\Debug\HandsOnFilesPro.exe
+D:\kalyani\C#\HandsOn\HandsOnFilesPro\obj\Debug\HandsOnFilesPro.pdb
