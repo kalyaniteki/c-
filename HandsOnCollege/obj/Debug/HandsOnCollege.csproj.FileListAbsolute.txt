@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnCollege\bin\Debug\HandsOnCollege.exe.config
+D:\kalyani\C#\HandsOn\HandsOnCollege\bin\Debug\HandsOnCollege.exe
+D:\kalyani\C#\HandsOn\HandsOnCollege\bin\Debug\HandsOnCollege.pdb
+D:\kalyani\C#\HandsOn\HandsOnCollege\obj\Debug\HandsOnCollege.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnCollege\obj\Debug\HandsOnCollege.exe
+D:\kalyani\C#\HandsOn\HandsOnCollege\obj\Debug\HandsOnCollege.pdb

@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnAbstractAssignment\bin\Debug\HandsOnAbstractAssignment.exe.config
+D:\kalyani\C#\HandsOn\HandsOnAbstractAssignment\bin\Debug\HandsOnAbstractAssignment.exe
+D:\kalyani\C#\HandsOn\HandsOnAbstractAssignment\bin\Debug\HandsOnAbstractAssignment.pdb
+D:\kalyani\C#\HandsOn\HandsOnAbstractAssignment\obj\Debug\HandsOnAbstractAssignment.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnAbstractAssignment\obj\Debug\HandsOnAbstractAssignment.exe
+D:\kalyani\C#\HandsOn\HandsOnAbstractAssignment\obj\Debug\HandsOnAbstractAssignment.pdb
