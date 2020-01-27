@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandsOnThrow\bin\Debug\HandsOnThrow.exe.config
+D:\kalyani\C#\HandsOn\HandsOnThrow\bin\Debug\HandsOnThrow.exe
+D:\kalyani\C#\HandsOn\HandsOnThrow\bin\Debug\HandsOnThrow.pdb
+D:\kalyani\C#\HandsOn\HandsOnThrow\obj\Debug\HandsOnThrow.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandsOnThrow\obj\Debug\HandsOnThrow.exe
+D:\kalyani\C#\HandsOn\HandsOnThrow\obj\Debug\HandsOnThrow.pdb

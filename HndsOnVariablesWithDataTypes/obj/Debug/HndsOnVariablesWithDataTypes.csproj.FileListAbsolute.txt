@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HndsOnVariablesWithDataTypes\obj\Debug\HndsOnVariablesWithDataTypes.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HndsOnVariablesWithDataTypes\bin\Debug\HndsOnVariablesWithDataTypes.exe.config
+D:\kalyani\C#\HandsOn\HndsOnVariablesWithDataTypes\bin\Debug\HndsOnVariablesWithDataTypes.exe
+D:\kalyani\C#\HandsOn\HndsOnVariablesWithDataTypes\bin\Debug\HndsOnVariablesWithDataTypes.pdb
+D:\kalyani\C#\HandsOn\HndsOnVariablesWithDataTypes\obj\Debug\HndsOnVariablesWithDataTypes.exe
+D:\kalyani\C#\HandsOn\HndsOnVariablesWithDataTypes\obj\Debug\HndsOnVariablesWithDataTypes.pdb
