@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\HandOnCollections\bin\Debug\HandOnCollections.exe.config
+D:\kalyani\C#\HandsOn\HandOnCollections\bin\Debug\HandOnCollections.exe
+D:\kalyani\C#\HandsOn\HandOnCollections\bin\Debug\HandOnCollections.pdb
+D:\kalyani\C#\HandsOn\HandOnCollections\obj\Debug\HandOnCollections.csprojAssemblyReference.cache
+D:\kalyani\C#\HandsOn\HandOnCollections\obj\Debug\HandOnCollections.exe
+D:\kalyani\C#\HandsOn\HandOnCollections\obj\Debug\HandOnCollections.pdb

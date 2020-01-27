@@ -1,0 +1,6 @@
+D:\kalyani\C#\HandsOn\C#Assignments\AssignmentProgram2\bin\Debug\AssignmentProgram2.exe.config
+D:\kalyani\C#\HandsOn\C#Assignments\AssignmentProgram2\bin\Debug\AssignmentProgram2.exe
+D:\kalyani\C#\HandsOn\C#Assignments\AssignmentProgram2\bin\Debug\AssignmentProgram2.pdb
+D:\kalyani\C#\HandsOn\C#Assignments\AssignmentProgram2\obj\Debug\AssignmentProgram2.exe
+D:\kalyani\C#\HandsOn\C#Assignments\AssignmentProgram2\obj\Debug\AssignmentProgram2.pdb
+D:\kalyani\C#\HandsOn\C#Assignments\AssignmentProgram2\obj\Debug\AssignmentProgram2.csprojAssemblyReference.cache
